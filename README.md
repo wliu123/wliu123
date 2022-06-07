@@ -48,4 +48,12 @@ I am a full-stack software engineer and writer. I enjoy programming, writing, pu
   
   ### :chart_with_upwards_trend: My Stats:
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wliu123&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliu123&layout=compact&theme=vision-friendly-dark" />
+ 
+ ---
+
+  ### :writing_hand: Blog Posts :
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
   
