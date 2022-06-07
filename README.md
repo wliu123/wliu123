@@ -25,7 +25,9 @@ I am a full-stack software engineer and writer. I enjoy programming, writing, pu
   - :cloud: Exploring cloud services and development on the cloud.
   - :rocket: Currently learning data structures and algorithms on algoexpert.com
   - :memo: Consistently writing about topics I'm passionate about
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-William_Liu-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/william-liu-308892235")
+  - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/william-liu-308892235"/>
+    <img src="https://img.shields.io/badge/William_Liu-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
 </div>
   
 ---
