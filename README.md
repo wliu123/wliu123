@@ -60,7 +60,7 @@ I am a full-stack software engineer and writer. I enjoy programming, writing, pu
   <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Serverless](https://awstip.com/building-on-serverless-62f56ec75d71?source=rss-bb42dfc5c7da------2)
 - [Architecting Serverless Applications](https://awstip.com/architecting-serverless-applications-5964685ae47a?source=rss-bb42dfc5c7da------2)
-- [Blockchain’s Role in Web 3.0](https://medium.com/coinmonks/blockchains-role-in-web-3-0-36ff53affbef?source=rss-bb42dfc5c7da------2)
-- [Consensus Algorithm’s ties to Blockchain Technology](https://medium.com/coinmonks/consensus-algorithms-ties-to-blockchain-technology-fae5b18198f1?source=rss-bb42dfc5c7da------2)
+- [Blockchain’s Role in Web 3.0](https://medium.com/@williamliu626/blockchains-role-in-web-3-0-36ff53affbef?source=rss-bb42dfc5c7da------2)
+- [Consensus Algorithm’s ties to Blockchain Technology](https://medium.com/@williamliu626/consensus-algorithms-ties-to-blockchain-technology-fae5b18198f1?source=rss-bb42dfc5c7da------2)
 <!-- BLOG-POST-LIST:END -->
   
